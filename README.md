@@ -5,8 +5,9 @@
 <h3>Atualizações da linguagem : finalizado</h3>
 <h3>Java interativo no JShell : finalizado</h3>
 <h3>Nova API HTTP2/ClienteJava interativo no JShell : finalizado</h3>
-<h3>Reactive Streams em Java : em andamento</h3>
+<h3>Reactive Streams em Java : finalizado</h3>
+<h3>JPMS : em andamento</h3>
 
 ```
-Atualizado em 03/12/2022 09:30 
+Atualizado em 08/12/2022 23:00 
 ```
